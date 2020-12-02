@@ -7,12 +7,20 @@ tags:
 ---
 
 
-# "Oru Simhamalayum Kattil " an amazing malayalam old song from the movie Thenkasippattanam (2000). This song was sung by Sujatha
+### "Oru Simhamalayum Kattil " an amazing malayalam old song from the movie Thenkasippattanam (2000). This song was sung by Sujatha
 
 ഒരു സിംഹമലയും കാട്ടിൽ:
 തുണയോടെ അലറും കാട്ടിൽ  
 വഴിമാറി വന്നു ചേർന്നു\
 ഒരു കുഞ്ഞു മാൻ കിടാവ്\
+
+സിത്താറിൽ 
+സിത്താറിൽ 
+സിത്താറിൽ
+സിത്താറിൽ
+സിത്താറിൽ
+സിത്താറിൽ 
+
 
 സിത്താറിൽ തരഫിട്ട്
 ചിട്ടവെച്ച് താളമിട്ട്
